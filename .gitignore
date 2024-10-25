@@ -1,0 +1,38 @@
+/NumberRecognition/number_recognition_trainset/
+/EmotionRecognition/SentenceAnalysis/
+/KeyPointsDetection/4PointsModel/
+/EmotionRecognition/bert-base-chinese/
+*.idea
+
+# compile files and directories
+*build
+PointsSegmentation/.idea/inspectionProfiles/Project_Default.xml
+PointsSegmentation/.idea/inspectionProfiles/profiles_settings.xml
+PointsSegmentation/.idea/vcs.xml
+PointsSegmentation/.idea/PointsSegmentation.iml
+PointsSegmentation/.idea/modules.xml
+PointsSegmentation/.idea/misc.xml
+PointsSegmentation/.idea/.gitignore
+KeyPointsDetection/trt_deploy/0231.jpg
+KeyPointsDetection/trt_deploy/.vscode/settings.json
+KeyPointsDetection/trt_deploy/.vscode/c_cpp_properties.json
+ArmorDetectingAndCal/detect/simplescreenrecorder-2024-10-06_16.27.09.mkv
+ArmorDetectingAndCal/detect/zimiao_test.mp4
+EmotionRecognition/__pycache__
+EmotionRecognition/bert-base-chinese
+EmotionRecognition/bert.parameters
+KeyPointsDetection/__pycache__
+KeyPointsDetection/test
+KeyPointsDetection/ultralytics
+KeyPointsDetection/ultralytics KeyPointsDetection/model_num.onnx KeyPointsDetection/number_recognition_model.pth
+NumberRecognition/recognize_colored/__pycache__
+NumberRecognition/recognize_gray/__pycache__
+NumberRecognition/recognize_gray/__pycache__/model.cpython-39.pyc
+NumberRecognition/img.png
+NumberRecognition/image.png
+PointCloudProjection/点云投影
+PointCloudProjection/20241024-202731.jpg
+PointsSegmentation/Pointnet_Pointnet2_pytorch/data_utils
+PointsSegmentation/Pointnet_Pointnet2_pytorch/log
+PointsSegmentation/Pointnet_Pointnet2_pytorch/visualizer
+PointsSegmentation/Pointnet_Pointnet2_pytorch/provider.py PointsSegmentation/Pointnet_Pointnet2_pytorch/test_classification.py PointsSegmentation/Pointnet_Pointnet2_pytorch/test_semseg.py PointsSegmentation/Pointnet_Pointnet2_pytorch/train_classification.py PointsSegmentation/Pointnet_Pointnet2_pytorch/train_semseg.py
